@@ -1,0 +1,15 @@
+{
+    "short_name": "HLPortfolio2022",
+    "name": "Portfolio of Hakgyun Lee 2022",
+    "icons": [
+      {
+        "src": "favicon.ico",
+        "sizes": "64x64",
+        "type": "image/x-icon"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
