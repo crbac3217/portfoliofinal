@@ -10,14 +10,14 @@ import Mainscreen from '../pages/MainScreen.js';
 
 const Main = () => {
   return (
-    <Routes> {/* The Switch decides which component to show based on the current URL.*/}
+    <Routes>
       <Route path="/" element={ <Mainscreen/> } />
-      <Route path="/Contact" element={ <Contact/> } />
-      <Route path="/2D" element = {<Page2D />} />
-      <Route path="/3D" element = {<Page3D />} />
-      <Route path="/Game" element = {<PageGame />} />
-      <Route path="/Posts" element = {<Posts />} />
-      <Route path="/getBlogPost" element = {<Blogpost />} />
+      <Route path="Contact" element={ <Contact/> } />
+      <Route path="2D" element = {<Page2D />} />
+      <Route path="3D" element = {<Page3D />} />
+      <Route path="Game" element = {<PageGame />} />
+      <Route path="Posts" element = {<Posts />} />
+      <Route path="getBlogPost" element = {<Blogpost />} />
     </Routes>
   );
 }
