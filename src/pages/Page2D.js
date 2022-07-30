@@ -1,6 +1,6 @@
 import React from "react"
 import {HeaderNav} from '../components/HeaderNav.js'
-import Post2D from "../components/Post2d.js";
+import Post2D from "../components/PostImg2D.js";
 import Footer from '../components/Footer.js'
 import Title2D from '../components/Title2D.js'
 import Part12D from '../components/Part12D.js'

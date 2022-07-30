@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from "react";
 import Datacaller from "../services/datacaller.js";
-import PostCard from "./PostCard.js";
+import PostCard from "./PostImgCard.js";
 import Masonry from 'react-masonry-css'
 
 const PostList = () => {

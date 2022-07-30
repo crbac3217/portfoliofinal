@@ -1,6 +1,6 @@
 import React from "react"
 import {HeaderNav} from '../components/HeaderNav.js'
-import PostGame from "../components/PostGame.js";
+import PostGame from "../components/GamePost.js";
 import Footer from '../components/Footer.js'
 import TitleGame from '../components/TitleGame.js'
 import Part1Game from '../components/Part1Game.js'

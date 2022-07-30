@@ -1,6 +1,6 @@
 import React from "react"
 import {HeaderNav} from '../components/HeaderNav.js'
-import Post3D from "../components/Post3d.js";
+import Post3D from "../components/PostImg3D.js";
 import Footer from '../components/Footer.js'
 import Title3D from '../components/Title3D.js'
 import Part13D from '../components/Part13D.js'
