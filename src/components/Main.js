@@ -11,7 +11,7 @@ import Mainscreen from '../pages/MainScreen.js';
 const Main = () => {
   return (
     <Routes>
-      <Route path="/" element={ <Mainscreen/> } />
+      <Route path="/" element={ <Page2D /> } />
       <Route path="Contact" element={ <Contact/> } />
       <Route path="2D" element = {<Page2D />} />
       <Route path="3D" element = {<Page3D />} />
