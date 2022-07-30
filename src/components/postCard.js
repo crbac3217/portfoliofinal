@@ -1,5 +1,6 @@
 import React from "react";
 
+//dummy comment
 const PostCard = (props) => {
     const query = "/getBlogPost?name=" + props.name;
     return(
